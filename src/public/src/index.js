@@ -22,8 +22,6 @@ const tr = document.createElement('tr');
      const td1 = document.createElement('td');
      const td2 = document.createElement('td');
 
-   td2.setAttribute('class','table-active');
-
      td1.textContent = id;
      td2.textContent = titulos;
 
